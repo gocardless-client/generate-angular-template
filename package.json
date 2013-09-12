@@ -8,7 +8,5 @@
   "bugs": {
     "url": "http://github.com/gocardless-client/generate-angular-template/issues"
   },
-  "engines": {
-    "node": "0.10.0"
-  }
+  "main": "generate-angular-template"
 }
